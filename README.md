@@ -1,2 +1,2 @@
 # Royal-Gates-Hotel-Management-System-with-maven_dependencies
-Welcome to the Royal Gates Hotel Management System, a comprehensive Java-based application developed as the culmination of the first-semester coursework at IJSE Institute. This project showcases proficiency in Java, JavaFX, Maven, MySQL, JDBC, and regex validation.
+The Royal Gates Hotel Management System, a Java-based application developed at IJSE Institute, demonstrates proficiency in Java, JavaFX, Maven, MySQL, JDBC, and regex validation. It follows a layered architecture, comprising a presentation layer, business layer, persistence layer, and data layer. This structure ensures the efficient management of hotel operations, highlighting strong skills in software development and design.
